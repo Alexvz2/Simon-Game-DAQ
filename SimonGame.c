@@ -1,9 +1,6 @@
 /*
  * Author: Alex Vazquez
- * Student #: 87088415
- * E-Mail: a.vazquez@alumni.ubc.ca
  * Date: friday 1st Dec, 2017
- * Section:L1U
  *
  *Purpose:
  * To create a simple simon says game, with the use of a virtual DAQ interfeace that consist's of 3 led lights and 3 buttons.
